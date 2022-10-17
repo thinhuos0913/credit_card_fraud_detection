@@ -9,4 +9,4 @@ This dataset presents transactions that occurred in two days, where have 492 fra
 - Apply classification algorithms into original imbalanced dataset to evaluate their performance.
 - Apply undersampling, oversampling method to solve imbalanced issue.
 - Re-apply classifications algorithms into undersampled/oversampled dataset to see if the performance of models is improved.
-- Try to apply ensemble methods (Bagging, RandomForest, Boosting, ...) into undersampled/oversampled dataset to evaluate performance.
+- Trying apply ensemble methods (Bagging, RandomForest, Boosting, ...) into undersampled/oversampled dataset to evaluate performance.
